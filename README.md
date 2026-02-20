@@ -3,7 +3,7 @@
 *This project has been created as part of the 42 curriculum by egache.*
 
 ## Description
-NetPractice is a networking project designed to teach the fundamentals of IP addressing and routing. The project consists of a series of 10 levels, each presenting a network topology with connectivity issues. The goal is to configure interfaces (IP addresses and subnet masks) and routing tables to ensure that all communication requirements (Goals) are met. It provides a hands-on approach to understanding how data travels through routers, switches, and different subnets.
+NetPractice is a networking project designed to teach the fundamentals of IP addressing and routing. The project consists of a series of 10 levels, each presenting a network system with connectivity issues. The goal is to configure IP addresses, subnet masks and routing tables to ensure that all goals are met. It provides an understanding to how data travels through routers, switches, and different subnets.
 
 ## Instructions
 
